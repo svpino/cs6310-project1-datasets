@@ -1,4 +1,6 @@
-# CS6310 - Software Architecture and Design - Project 1 Sample Datasets
+# CS6310 - Software Architecture and Design 
+
+### Project 1 Sample Datasets
 
 The following is a list of sample datasets that you can use to test your solution for Project 1. These files follow the same format than the student_demand files provided as part of the project.
 
