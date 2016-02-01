@@ -18,3 +18,11 @@ Next to each file, you can see the expected result.
 * demand10 - __X = 13__
 * demand11 - __X = 1__
 * demand12 - __X = 2__
+
+### Automated Test Running
+
+To automatically test your program output, use the `test_runner.sh` shell script (_thanks to Shim Manning for the idea!_). It will automatically assume the path to your java class to be `/home/ubuntu/workspace/ProjectOne`, but this can be overridden as follows:
+
+```
+./test_runner.sh /home/ubuntu/alternative/path/to/bin
+```
