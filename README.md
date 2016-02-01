@@ -19,6 +19,20 @@ Next to each file, you can see the expected result.
 * demand11 - __X = 1__
 * demand12 - __X = 2__
 
+### Large datasets
+
+I thought it was going to be interesting to test Project1 code with some large datasets (larger than 600), so I created a small program to generate some random values. The code is in `Generator.java`, and you can read the instructions inside that file.
+
+I personally created the following samples:
+
+* large1000 - __X = 135__
+* large3000 - __X = 409__
+* large5000 - __X = 677__
+* large7000 - __X = 921__
+* large10000 - __X = 1338__
+
+As a heads up, the 7,000 and 10,000 samples take several minutes to complete (at least on my computer they did.)
+
 ### Automated Test Running
 
 To automatically test your program output, use the `test_runner.sh` shell script (_thanks to Shim Manning for the idea!_). It will automatically assume the path to your java class to be `/home/ubuntu/workspace/ProjectOne`, but this can be overridden as follows:
