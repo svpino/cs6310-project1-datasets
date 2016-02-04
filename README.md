@@ -25,11 +25,11 @@ I thought it was going to be interesting to test Project1 code with some large d
 
 I personally created the following samples:
 
-* large1000 - __X = 135__
-* large3000 - __X = 409__
-* large5000 - __X = 677__
-* large7000 - __X = 921__
-* large10000 - __X = 1338__
+* large1000 - __X = 170__
+* large3000 - __X = 529__
+* large5000 - __X = 897__
+* large7000 - __X = 1227__
+* large10000 - __X = 1761__
 
 As a heads up, the 7,000 and 10,000 samples take several minutes to complete (at least on my computer they did.)
 
