@@ -6,18 +6,18 @@ The following is a list of sample datasets that you can use to test your solutio
 
 Next to each file, you can see the expected result.
 
-* demand1 - __X = 3__
-* demand2 - __X = 4__
-* demand3 - __X = 7__
-* demand4 - __X = 10__
-* demand5 - __X = 13__
-* demand6 - __X = 3__
-* demand7 - __X = 4__
-* demand8 - __X = 7__
-* demand9 - __X = 10__
-* demand10 - __X = 13__
+* demand1 - __X = 4__
+* demand2 - __X = 5__
+* demand3 - __X = 9__
+* demand4 - __X = 13__
+* demand5 - __X = 17__
+* demand6 - __X = 4__
+* demand7 - __X = 5__
+* demand8 - __X = 9__
+* demand9 - __X = 13__
+* demand10 - __X = 17__
 * demand11 - __X = 1__
-* demand12 - __X = 2__
+* demand12 - __X = 3__
 
 ### Large datasets
 
