@@ -59,6 +59,7 @@ You can use the Generator.java file included in this project. You can run it wit
 `
     $ java Generator 100 > file.csv
 `
+
 Where `100` represents the number of students and `file.csv` will be the output file.
 
 ### Automated Test Running
