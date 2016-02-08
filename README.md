@@ -4,7 +4,7 @@
 
 The following is a list of sample datasets that you can use to test your solution for Project 1. These files follow the same format than the student_demand files provided as part of the project.
 
-### "Demands" datasets 
+### "Demand" datasets 
 
 The `/demand` folder contains 12 different datasets with something in common: all the students require all the courses. This tests the ability of our program to properly schedule prerequisites in the right order. Some datasets also leave out the prerequisite courses to make sure our program adds them back.
 
