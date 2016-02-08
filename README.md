@@ -52,6 +52,15 @@ The `/large` folder containts another 5 datasets. I thought it was going to be i
 
 As a heads up, the 7,000 and 10,000 samples take several minutes to complete (at least on my computer they did.)
 
+### Creating your own datasets
+
+You can use the Generator.java file included in this project. You can run it with the following command:
+
+`
+    $ java Generator 100 > file.csv
+`
+Where `100` represents the number of students and `file.csv` will be the output file.
+
 ### Automated Test Running
 
 To automatically test your program output, use the `test_runner.sh` shell script (_thanks to Shim Manning for the idea!_). It will automatically assume the path to your java class to be `/home/ubuntu/workspace/ProjectOne`, but this can be overridden as follows:
